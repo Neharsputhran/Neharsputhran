@@ -3,7 +3,6 @@
 <h3 align="center">3rd year CS student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neharsputhran&label=Profile%20views&color=0e75b6&style=flat" alt="Neharsputhran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neharsputhran&theme=" alt="Neharsputhran" /></a> </p>
 
 
 - 📫 How to reach me **nehaputhran3108@gmail.com**
