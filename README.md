@@ -3,7 +3,6 @@
 <h3 align="center">3rd year CS student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neharsputhran&label=Profile%20views&color=0e75b6&style=flat" alt="Neharsputhran" /> </p>
 
-![Untitled design](https://github.com/Neharsputhran/Neharsputhran/assets/109666034/a23235e0-7436-4066-a6cc-e8510a36e38f)
 
 
 
