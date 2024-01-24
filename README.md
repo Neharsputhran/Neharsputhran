@@ -2,8 +2,8 @@
 <h3 align="center">3rd year CS student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Neharsputhran&label=Profile%20views&color=0e75b6&style=flat" alt="Neharsputhran" /> </p>
 
-<p align ="right">
-<img src="https://github.com/Neharsputhran/Neharsputhran/assets/109666034/4f82a062-9752-465e-ad3c-1977ba5f2a84"></p>
+
+<img align="right" src="https://github.com/Neharsputhran/Neharsputhran/assets/109666034/4f82a062-9752-465e-ad3c-1977ba5f2a84">
 
 
 
