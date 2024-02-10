@@ -8,7 +8,7 @@
 
 
 - 📫 How to reach me **nehaputhran3108@gmail.com**
-- 💻 Temporary portfolio prototype **[https://www.figma.com/proto/2r73WKAW66rfcymM3Q78Rx/website?type=design&node-id=1-2&t=gUNZYDrRaBlltm0o-0&scaling=min-zoom&page-id=0%3A1](https://rb.gy/4q3ulq)**
+- 💻 Temporary portfolio prototype **[(https://rb.gy/4q3ulq)](https://rb.gy/4q3ulq)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
