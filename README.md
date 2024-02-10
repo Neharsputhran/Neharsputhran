@@ -8,7 +8,7 @@
 
 
 - 📫 How to reach me **nehaputhran3108@gmail.com**
-- 💻 Temporary portfolio prototype **[(https://rb.gy/4q3ulq)](https://rb.gy/4q3ulq)**
+- 💻 Temporary portfolio prototype **[https://rb.gy/4q3ulq](https://rb.gy/4q3ulq)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
