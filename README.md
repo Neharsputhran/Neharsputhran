@@ -1,3 +1,4 @@
+![githubcover](https://github.com/Neharsputhran/Neharsputhran/assets/109666034/620d0ccf-590f-4465-8c45-43a12dbf3b5c)
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">3rd year CS student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Neharsputhran&label=Profile%20views&color=0e75b6&style=flat" alt="Neharsputhran" /> </p>
